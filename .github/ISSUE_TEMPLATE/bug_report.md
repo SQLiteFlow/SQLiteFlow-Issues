@@ -10,6 +10,10 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Version (please complete the following information):**
+ - OS: [e.g. macOS 10.14.4]
+ - App version: [e.g. 3.5.4]
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
@@ -22,10 +26,6 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-
-**Version (please complete the following information):**
- - OS: [e.g. macOS 10.14.4]
- - App version: [e.g. 3.5.4]
 
 **Additional context**
 Add any other context about the problem here.
