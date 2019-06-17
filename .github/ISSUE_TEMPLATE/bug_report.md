@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Version:**
+**Version**
  - OS: [e.g. macOS 10.14.4]
  - App version: [e.g. 3.5.4]
 
