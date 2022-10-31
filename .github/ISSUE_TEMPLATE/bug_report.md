@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 **Version**
- - Platform: [e.g. macOS 10.14.5]
- - SQLiteFlow: [e.g. 3.6.0]
+ - Platform: [e.g. macOS 13.0]
+ - SQLiteFlow: [e.g. 5.8.0]
 
 
 **Steps to Reproduce**
